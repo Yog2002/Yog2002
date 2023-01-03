@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogesh Chauddhari
 - 👀 I’m interested in Web Development, Data Science
-- 🌱 I’m currently learning Data Science, Django
+- 🌱 I’m currently learning Full Stack Python Development, Django
 - 📫 How to reach me +91 7745858231
 
 <!-- - 💞️ I’m looking to collaborate on  -->
