@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogesh Chauddhari
 - 👀 I’m interested in Web Development, Data Science
-- 🌱 I’m currently learning Full Stack Python Development, Django
+- 🌱 I’m currently learning MERN Stack Development (MongoDB,ExpressJ,ReactJs,NodeJs) 
 - 📫 How to reach me +91 7745858231
 
 <!-- - 💞️ I’m looking to collaborate on  -->
